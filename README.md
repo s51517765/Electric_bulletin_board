@@ -15,6 +15,7 @@ Arduino Uno
 
 ## 技術的解説 (Technical explanation)
 
+https://s51517765.hatenadiary.jp/entry/2020/08/31/073000
 
 ## 回路図 (Circuit diagram)
 
